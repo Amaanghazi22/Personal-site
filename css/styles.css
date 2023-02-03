@@ -90,7 +90,7 @@ a:hover{
     color: #11999E;
 }
 .profile-img{
-    border-radius: 50%;
+    border-radius: 100%;
     width: 300px;
     height: 300px;
 }
